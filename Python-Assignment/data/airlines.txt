@@ -1,0 +1,5 @@
+AirlineID;AirlineName;TotalFlights
+ZW1865;Air Asia;50
+MAS1709;Malaysia Airline;110
+ME2098;Me Airways;10
+APU8760;APU Airways;50

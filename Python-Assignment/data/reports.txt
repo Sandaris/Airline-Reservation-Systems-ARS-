@@ -1,0 +1,7 @@
+2024-01-08
+09:02:28
+airlines[int(choice)-1]
+On-time: 8
+Delayed: 0
+Cancelled: 0
+

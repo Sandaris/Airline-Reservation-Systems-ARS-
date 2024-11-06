@@ -1,0 +1,18 @@
+Booking ID;User ID;Schedule ID;Booking Date;Passenger Name;Seat Type;Seat Number;Meal;Ticket Price;Flight Status
+B100001;johndoe123;S1001;2023-11-01;John Doe;Economy;23E;Chicken Rice;250.00;Confirmed
+B100002;janesmith456;S1001;2023-11-02;Jane Smith;Business;15B;Beef Rice;500.00;Confirmed
+B100003;bobjohn789;S1001;2023-11-03;Bob Johnson;Economy;25E;Noodles;250.00:;Confirmed
+B100004;alicewill101;S1001;2023-11-04;Alice Brown;Business;20F;Beef Rice;500.00;Confirmed
+B100005;michaelbrown202;S1001;2023-11-05;Charlie Davis;Economy;27A;Chicken Rice;250.00;Confirmed
+B100006;william404;S1002;2023-11-06;Eva White;Business;10C;Vegetarian Pasta;480.00;Cancelled
+B100007;sophiawil505;S1002;2023-11-07;Michael Lee;Economy;30D;Seafood Curry;240.00;Cancelled
+B100008;olivia707;S1002;2023-11-08;Sophia Turner;Economy;32F;Vegetarian Pasta;240.00;Cancelled
+B100009;hosef99;S1002;2023-11-09;Andrew Clark;Business;12F;Vegetarian Pasta;480.00;Confirmed
+B100010;david606;S1002;2023-11-10;Olivia Harris;Economy;35A;Seafood Curry;240.00;Cancelled
+B100011;hosef99;S1012;2023-12-12;Joseph;Business;8C;Chicken Curry;420;Confirmed
+B100012;hosef99;S1031;2023-12-17;Joseph;Economy;20F;Chicken Rice;250;Confirmed
+B100013;voonkw;S1012;2023-12-18;voonkw;Business;8B;Chicken Curry;420;Confirmed
+B100014;voonkw;S1002;2023-11-08;Sophia Turner;Economy;32F;Vegetarian Pasta;240.00;Cancelled
+B100015;dummyID;S1012;2023-12-28;dummy;Business;8A;Vegetarian Rice;420;Confirmed
+B100016;dummyID;S1006;2023-12-28;dummy;Economy;24B;Chicken Satay;160;Confirmed
+B100017;dummyID;S2414;2023-12-28;dummy;Business;12B;Spring Rolls;700;Confirmed

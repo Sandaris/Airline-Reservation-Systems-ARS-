@@ -1,0 +1,45 @@
+Schedule ID;Airline ID;Flight No;Status;Dep Date;Dep Time;Arr Date;Arr Time;Dep Airport;Arr Airport;Economy Seats;Business Seats;In Flight Menu;In Flight Services;Economy Price;Business Price
+S1001;MAS1709;MH001;On-time;2023-11-01;07:30:00;2023-11-01;13:00:00;KUL;HKG;180;40;Chicken Rice,Beef Rice,Noodles;WiFi,Entertainment,Blanket;200;450
+S1002;ZW1865;AK302;Delayed;2023-11-02;15:45:00;2023-11-02;21:20:00;KUL;SIN;150;30;Vegetarian Pasta,Seafood Curry;WiFi,Entertainment,Headphones;180;400
+S1003;ME2098;ME105;On-time;2023-11-03;12:00:00;2023-11-03;18:30:00;BEY;IST;160;35;Salmon with Rice;WiFi,Entertainment,Blanket;190;420
+S1004;APU8760;AP511;On-time;2023-11-04;09:20:00;2023-11-04;14:45:00;DEL;BOM;200;45;Vegetable Biryani,Paneer Tikka;WiFi,Entertainment,Headphones;220;480
+S1005;MAS1709;MH202;Delayed;2023-11-05;11:30:00;2023-11-05;17:15:00;HKG;KUL;170;25;Sushi,Sashimi;WiFi,Entertainment,Blanket;190;400
+S1006;ZW1865;AK405;On-time;2023-11-06;14:15:00;2023-11-06;20:45:00;SIN;KUL;139;20;Chicken Satay,Shrimp Fried Rice;WiFi,Entertainment,Headphones;160;350
+S1007;ME2098;ME601;Delayed;2023-11-07;08:45:00;2023-11-07;14:30:00;IST;BEY;190;33;Hummus with Pita Bread,Falafel Wrap;WiFi,Entertainment,Blanket;210;460
+S1008;APU8760;AP708;On-time;2023-11-08;16:00:00;2023-11-08;21:35:00;BOM;DEL;130;22;Vegetarian Pizza,Chocolate Cake;WiFi,Entertainment,Headphones;150;320
+S1009;MAS1709;MH305;On-time;2023-11-09;10:10:00;2023-11-09;15:45:00;KUL;BKK;160;28;Fried Rice with Tofu,Beef Stir-Fry;WiFi,Entertainment,Blanket;180;400
+S1010;ZW1865;AK510;Delayed;2023-11-10;18:30:00;2023-11-10;23:55:00;KUL;HND;180;32;Teriyaki Chicken,Tempura Udon;WiFi,Entertainment,Headphones;200;450
+S1011;MAS1709;MH111;On-time;2023-11-11;07:30:00;2023-11-11;13:00:00;KUL;HKG;185;39;Beef Noodles,Seafood Curry;WiFi,Entertainment,Blanket;220;480
+S1012;ZW1865;AK222;Delayed;2023-11-12;15:45:00;2023-11-12;21:20:00;KUL;SIN;155;28;Vegetarian Rice,Chicken Curry;WiFi,Entertainment,Headphones;190;420
+S1013;ME2098;ME333;On-time;2023-11-13;12:00:00;2023-11-13;18:30:00;BEY;IST;165;36;Salmon Sushi,Chicken Satay;WiFi,Entertainment,Blanket;200;450
+S1014;APU8760;AP444;On-time;2023-11-14;09:20:00;2023-11-14;14:45:00;DEL;BOM;205;46;Vegetable Stir-Fry,Spring Rolls;WiFi,Entertainment,Headphones;230;500
+S1015;MAS1709;MH555;Delayed;2023-11-15;11:30:00;2023-11-15;17:15:00;HKG;KUL;175;26;Sushi Platter,Sashimi Deluxe;WiFi,Entertainment,Blanket;200;420
+S1016;ZW1865;AK666;On-time;2023-11-16;14:15:00;2023-11-16;20:45:00;SIN;KUL;145;21;Chicken Teriyaki,Shrimp Tempura;WiFi,Entertainment,Headphones;170;380
+S1017;ME2098;ME777;Delayed;2023-11-17;08:45:00;2023-11-17;14:30:00;IST;BEY;195;34;Hummus Platter,Falafel Burger;WiFi,Entertainment,Blanket;210;460
+S1018;APU8760;AP888;On-time;2023-11-18;16:00:00;2023-11-18;21:35:00;BOM;DEL;135;24;Margherita Pizza,Chocolate Mousse;WiFi,Entertainment,Headphones;180;380
+S1019;MAS1709;MH999;On-time;2023-11-19;10:10:00;2023-11-19;15:45:00;KUL;BKK;165;29;Tofu Stir-Fry,Beef Bulgogi;WiFi,Entertainment,Blanket;190;420
+S1020;ZW1865;AK123;Delayed;2023-11-20;18:30:00;2023-11-20;23:55:00;KUL;HND;185;33;Teriyaki Salmon,Soba Noodles;WiFi,Entertainment,Headphones;210;460
+S1021;MAS1709;MH234;On-time;2023-11-21;07:30:00;2023-11-21;13:00:00;KUL;HKG;180;40;Chicken Rice,Beef Rice,Noodles;WiFi,Entertainment,Blanket;200;450
+S1022;ZW1865;AK345;Delayed;2023-11-22;15:45:00;2023-11-22;21:20:00;KUL;SIN;150;30;Vegetarian Pasta,Seafood Curry;WiFi,Entertainment,Headphones;180;400
+S1023;ME2098;ME456;On-time;2023-11-23;12:00:00;2023-11-23;18:30:00;BEY;IST;160;35;Salmon with Rice;WiFi,Entertainment,Blanket;190;420
+S1024;APU8760;AP567;On-time;2023-11-24;09:20:00;2023-11-24;14:45:00;DEL;BOM;200;45;Vegetable Biryani,Paneer Tikka;WiFi,Entertainment,Headphones;220;480
+S1025;MAS1709;MH678;Delayed;2023-11-25;11:30:00;2023-11-25;17:15:00;HKG;KUL;170;25;Sushi,Sashimi;WiFi,Entertainment,Blanket;190;400
+S1026;ZW1865;AK789;On-time;2023-11-26;14:15:00;2023-11-26;20:45:00;SIN;KUL;139;20;Chicken Satay,Shrimp Fried Rice;WiFi,Entertainment,Headphones;160;350
+S1027;ME2098;ME890;Delayed;2023-11-27;08:45:00;2023-11-27;14:30:00;IST;BEY;190;33;Hummus with Pita Bread,Falafel Wrap;WiFi,Entertainment,Blanket;210;460
+S1028;APU8760;AP901;On-time;2023-11-28;16:00:00;2023-11-28;21:35:00;BOM;DEL;130;22;Vegetarian Pizza,Chocolate Cake;WiFi,Entertainment,Headphones;150;320
+S1029;MAS1709;MH012;On-time;2023-11-29;10:10:00;2023-11-29;15:45:00;KUL;BKK;160;28;Fried Rice with Tofu,Beef Stir-Fry;WiFi,Entertainment,Blanket;180;400
+S1030;ZW1865;AK123;Delayed;2023-11-30;18:30:00;2023-11-30;23:55:00;KUL;HND;180;32;Teriyaki Chicken,Tempura Udon;WiFi,Entertainment,Headphones;200;450
+S1031;MAS1709;MH001;On-time;2024-01-01;15:00:00;2024-01-02;02:00:00;KUL;ENG;119;40;Chicken Rice,Beef Rice;WiFi,Entertainment;250;400
+S2401;MAS1709;MH001;On-time;2024-01-10;08:00:00;2024-01-10;12:00:00;KUL;HKG;180;40;Chicken Rice,Beef Rice,Noodles;WiFi,Entertainment,Blanket;300;600
+S2402;ZW1865;AK302;Delayed;2024-02-05;15:45:00;2024-02-05;21:20:00;KUL;SIN;150;30;Vegetarian Pasta,Seafood Curry;WiFi,Entertainment,Headphones;250;500
+S2403;ME2098;ME105;On-time;2024-03-15;12:00:00;2024-03-15;18:30:00;BEY;IST;160;35;Salmon with Rice;WiFi,Entertainment,Blanket;280;550
+S2404;APU8760;AP511;On-time;2024-04-20;09:20:00;2024-04-20;14:45:00;DEL;BOM;200;45;Vegetable Biryani,Paneer Tikka;WiFi,Entertainment,Headphones;350;700
+S2405;MAS1709;MH202;Delayed;2024-05-25;11:30:00;2024-05-25;17:15:00;HKG;KUL;170;25;Sushi,Sashimi;WiFi,Entertainment,Blanket;320;600
+S2406;ZW1865;AK405;On-time;2024-01-08;14:15:00;2024-01-08;20:45:00;SIN;KUL;140;20;Chicken Satay,Shrimp Fried Rice;WiFi,Entertainment,Headphones;300;550
+S2407;ME2098;ME601;Delayed;2024-02-12;08:45:00;2024-02-12;14:30:00;IST;BEY;190;33;Hummus with Pita Bread,Falafel Wrap;WiFi,Entertainment,Blanket;330;600
+S2408;APU8760;AP708;On-time;2024-03-18;16:00:00;2024-03-18;21:35:00;BOM;DEL;130;22;Vegetarian Pizza,Chocolate Cake;WiFi,Entertainment,Headphones;280;500
+S2409;MAS1709;MH305;On-time;2024-04-22;10:10:00;2024-04-22;15:45:00;KUL;BKK;160;28;Fried Rice with Tofu,Beef Stir-Fry;WiFi,Entertainment,Blanket;300;550
+S2410;ZW1865;AK510;Delayed;2024-05-29;18:30:00;2024-05-29;23:55:00;KUL;HND;180;32;Teriyaki Chicken,Tempura Udon;WiFi,Entertainment,Headphones;320;600
+S2411;MAS1709;MH111;On-time;2024-01-03;07:30:00;2024-01-03;13:00:00;KUL;HKG;185;42;Beef Noodles,Seafood Curry;WiFi,Entertainment,Blanket;330;650
+S2412;ZW1865;AK222;Delayed;2024-02-19;15:45:00;2024-02-19;21:20:00;KUL;SIN;155;31;Vegetarian Rice,Chicken Curry;WiFi,Entertainment,Headphones;290;550
+S2413;ME2098;ME333;On-time;2024-03-25;12:00:00;2024-03-25;18:30:00;BEY;IST;165;36;Salmon Sushi,Chicken Satay;WiFi,Entertainment,Blanket;310;600
